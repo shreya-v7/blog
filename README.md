@@ -1,1 +1,1 @@
-Essentially till the template
+Template with visible functionalities
